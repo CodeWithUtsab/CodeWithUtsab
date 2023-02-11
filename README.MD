@@ -2,15 +2,16 @@
 <h3 align="center">Hi there  👋,
 
 <br/>
+<br/>
 I'm Utsab Kumar Sarkar, Full Stack developer from India</h3>
 
 <h4 align = "center" >I am currently doing React Js.I like problems as they enable us to change our way of thinking.</h4>
 
-- 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
+ <p align = "center">- 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**</p>
 
-- 🌱 &nbsp; All of my projects are available at [My Portfolio]()
+ <p align = "center">- 🌱 &nbsp; All of my projects are available at [My Portfolio]()</p>
 
-- 💬 &nbsp; Ask me about **React**
+ <p align = "center">- 💬 &nbsp; Ask me about **React**</p>
 
 <br/>
 
