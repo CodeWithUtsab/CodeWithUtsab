@@ -9,7 +9,7 @@ I'm Utsab Kumar Sarkar, Full Stack developer from India</h3>
 
  <p align = "center">- 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**</p>
 
- <p align = "center">- 🌱 &nbsp; All of my projects are available at [My Portfolio]()</p>
+ <p align = "center">- 🌱 &nbsp; All of my projects are available at My Portfolio</p>
 
  <p align = "center">- 💬 &nbsp; Ask me about **React**</p>
 
